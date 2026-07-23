@@ -1,18 +1,20 @@
 # Langchain-for-LLM-Application-Development-
 [Langchain](https://www.langchain.com/) is a trusted open source framework for building LLM applications. This repo focuses on calling LLMs, providing prompts and parsing responses; memories to store conversations and manage limited context space; creating sequences of operations; question-answering over documents; and LLMs as reasoning agents. It comprises two packages written in Python and Javascript (Typescript) focused on composition and modularity.
 
-The repo is drawn from the files downloaded from the following [Course site](https://www.deeplearning.ai/courses/langchain?_gl=1*1ch7uoc*_gcl_au*MjMyODQwMjEzLjE3ODQ4MDgyODg.*_ga*OTMxMDk1NC4xNzg0NTUwNzMx*_ga_FR2MZ1VLMS*czE3ODQ4MTIxMDAkbzQkZzEkdDE3ODQ4MTMxNTgkajI5JGwwJGgw)
+The repo is drawn from the files downloaded from the following [course site](https://www.deeplearning.ai/courses/langchain?_gl=1*1ch7uoc*_gcl_au*MjMyODQwMjEzLjE3ODQ4MDgyODg.*_ga*OTMxMDk1NC4xNzg0NTUwNzMx*_ga_FR2MZ1VLMS*czE3ODQ4MTIxMDAkbzQkZzEkdDE3ODQ4MTMxNTgkajI5JGwwJGgw).
 
 ## Project Overview
-#### 1) Model, Prompts and Parsers:
+#### 1) [Model, Prompts and Parsers](https://learn.deeplearning.ai/courses/langchain/lesson/xf7wh/models%2C-prompts-and-parsers):
 Calling LLMs, providing prompts and parsing the response.
-#### 2) Memories for LLMs:
+#### 2) [Memories for LLMs](https://learn.deeplearning.ai/courses/langchain/lesson/ls57z/memory):
 Memories to store conversations and manage limited context space.
-#### 3) Chains: 
+#### 3) [Chains](https://learn.deeplearning.ai/courses/langchain/lesson/glsn3/chains): 
 Creating sequences of operations
-#### 4) Questions Answering over Documents
+#### 4) [Questions Answering over Documents](https://learn.deeplearning.ai/courses/langchain/lesson/mv7m1/question-and-answer):
 Apply LLMs to your proprietary data and use case requirements
-#### 5) Agents
+#### 5) [Evaluation](https://learn.deeplearning.ai/courses/langchain/lesson/dputu/evaluation):
+Developing an LLM evaluation framework using tools.
+#### 6) [Agents](https://learn.deeplearning.ai/courses/langchain/lesson/kmiw3/agents):
 Explore the powerful emerging development of LLMs as reasoning agents.
 
 
