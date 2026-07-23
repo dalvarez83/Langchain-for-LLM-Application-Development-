@@ -1,10 +1,10 @@
 # Langchain-for-LLM-Application-Development-
 [Langchain](https://www.langchain.com/) is a trusted open source framework for building LLM applications. This repo focuses on calling LLMs, providing prompts and parsing responses; memories to store conversations and manage limited context space; creating sequences of operations; question-answering over documents; and LLMs as reasoning agents. It comprises two packages written in Python and Javascript (Typescript) focused on composition and modularity.
 
-The repo is drawn from the files downloaded from the following [Course site]([https://www.deeplearning.ai/courses/langchain?_gl=1*1ch7uoc*_gcl_au*MjMyODQwMjEzLjE3ODQ4MDgyODg.*_ga*OTMxMDk1NC4xNzg0NTUwNzMx*_ga_FR2MZ1VLMS*czE3ODQ4MTIxMDAkbzQkZzEkdDE3ODQ4MTMxNTgkajI5JGwwJGgw])
+The repo is drawn from the files downloaded from the following [Course site](https://www.deeplearning.ai/courses/langchain?_gl=1*1ch7uoc*_gcl_au*MjMyODQwMjEzLjE3ODQ4MDgyODg.*_ga*OTMxMDk1NC4xNzg0NTUwNzMx*_ga_FR2MZ1VLMS*czE3ODQ4MTIxMDAkbzQkZzEkdDE3ODQ4MTMxNTgkajI5JGwwJGgw)
 
 ## Project Overview
-### 1) Model, Prompts and Parsers:
+#### 1) Model, Prompts and Parsers:
 Calling LLMs, providing prompts and parsing the response.
 #### 2) Memories for LLMs:
 Memories to store conversations and manage limited context space.
